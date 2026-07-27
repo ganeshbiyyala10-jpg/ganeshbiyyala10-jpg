@@ -1,68 +1,88 @@
-# Hi 👋, I'm Ganesh Biyyala
+<h1 align="center">Hi 👋, I'm Ganesh Biyyala</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring Software Engineer</h3>
 
-### 🎓 B.Tech 4th Year Student | Artificial Intelligence & Machine Learning
-
-Welcome to my GitHub profile! I am passionate about Artificial Intelligence, Machine Learning, Python, and Software Development. I enjoy building real-world projects and continuously improving my programming skills.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganesh-biyyala-685a23360">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ganeshbiyyala10-jpg">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech 4th Year (AIML)
-- 💻 Interested in AI, Machine Learning and Software Development
-- 🌱 Currently learning Python, Java, Git and GitHub
-- 🚀 Working on AI and Web Development projects
-- 🎯 Goal: Become a Software Engineer in a leading MNC
+- 🎓 B.Tech 4th Year – Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI, Machine Learning and Software Development
+- 🌱 Currently learning Deep Learning, Python and Java
+- 🚀 Building real-world AI projects
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-- Python
-- Java
-- HTML
-- CSS
-- Git
-- GitHub
-- Machine Learning
-- Artificial Intelligence
-- Jupyter Notebook
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,tensorflow" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🌾 Automated Crop Disease Detection using CNN
-AI-based system that detects crop diseases using Convolutional Neural Networks.
-
-### 💊 Elderly Medicine Reminder System
-A smart reminder system that helps elderly people take medicines on time.
-
-### 🌐 CodeAlpha Language Translation Tool
-A language translation application developed during my CodeAlpha internship.
-
-### 🤖 CodeAlpha FAQ Chatbot
-An AI chatbot that answers frequently asked questions automatically.
+- 🌾 Automated Crop Disease Detection using CNN
+- 💊 Elderly Medicine Reminder System
+- 🌐 CodeAlpha Language Translation Tool
+- 🤖 CodeAlpha FAQ Chatbot
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/ganeshbiyyala10-jpg
-- LinkedIn: https://www.linkedin.com/in/ganesh-biyyala-685a23360
+- 💼 LinkedIn: https://www.linkedin.com/in/ganesh-biyyala-685a23360
+- 💻 GitHub: https://github.com/ganeshbiyyala10-jpg
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ganeshbiyyala10-jpg&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganeshbiyyala10-jpg&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbiyyala10-jpg&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ganeshbiyyala10-jpg&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ganeshbiyyala10-jpg&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 📚 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Python Development
-- Problem Solving
+- Python
+- Data Structures & Algorithms
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 💡 Quote
 
-If you like my projects, don't forget to ⭐ my repositories.
+> "Every project is an opportunity to learn, improve, and build something meaningful."
+
+---
+
+⭐ **Thank you for visiting my GitHub profile!**  
+Feel free to explore my repositories and connect with me on LinkedIn.
